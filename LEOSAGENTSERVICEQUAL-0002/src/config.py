@@ -3,7 +3,7 @@
 Application Configuration
 
 Manages environment variables and configuration settings using Pydantic v2 BaseSettings.
-Supports both Azure OpenAI and OpenAI with automatic fallback logic.
+Supports both Azure OpenAI and OpenAI with automatic fallback logic..
 """
 
 from typing import Optional
