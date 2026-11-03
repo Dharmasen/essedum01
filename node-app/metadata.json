@@ -2,7 +2,7 @@
   "id": "app-001",
   "name": "NetworkOpsDashboard",
   "type": "agent",
-  "version": "1.0.1",
+  "version": "1.5.1",
   "description": "AI-driven network operations dashboard",
  
  "framework": {
